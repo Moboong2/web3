@@ -880,6 +880,7 @@ body{
     }
     #infoprice a{
         padding: 15px;
+        padding-left: 0;
         position: fixed;
         left: 0;
         bottom: 0;
@@ -973,13 +974,22 @@ body{
         font-size: 18px;
     }
     .curriculum-img{
-        width: 45%
+        width: 52%;
+        margin: 0;
+        padding: 0;
     }
     .curriculum-img img{
         width: 100%
     }
     .curriculum-text{
         width: 45%;
+    }
+    .curriculum-text h4{
+        font-size: 16px;
+        line-height: 1em;
+    }.curriculum-text p{
+        font-size: 11px;
+        line-height: 1em;
     }
 
     #footer-inner-up div{
