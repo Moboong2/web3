@@ -933,7 +933,7 @@ body{
         text-align: center;
     }
     .teacher-img img{
-        width: 400px;
+        width: 60%;
     }
     .teacher-name{
         display: block;
@@ -945,6 +945,15 @@ body{
     }
     #teachersection-title{
         padding: 0 15;
+    }
+    #pricesection-inner-left{
+        width: 360px;
+    }
+    #pricesection-inner-left-price-right{
+        margin-left: 200px;
+    }
+    #pricesection-inner-left-result-right h2{
+        margin-left: 100px;
     }
     .curriculum-img{
         width: 45%
