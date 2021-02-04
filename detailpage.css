@@ -139,7 +139,7 @@ div[id="sidebar"] {
     right: -100%;
     z-index: 999;
     transition: all .35s;
-    padding-top: 10%;
+    padding-top: 70px;
 }
 input[id="menuicon"]:checked + label + div {right:0;}
 
